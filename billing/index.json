@@ -1,0 +1,12 @@
+{
+  "dashboard": [
+    {
+      "logo": "https://npanel.dev/favicon.svg",
+      "title": "Next Npanel",
+      "description": "Description here",
+      "expiryDate": "2099-01-01",
+      "href": "https://npanel.dev"
+    }
+  ],
+  "payment": []
+}
